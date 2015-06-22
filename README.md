@@ -6,8 +6,8 @@ washingtondc
 Repo for the DC Nodeschool and nodejs community.
 
 ## Events
-- **More Events Coming Soon!**
-- ~~~NodeSchool at NovaNode Unconference - Saturday, June 13, 2015 10:00am to 12:30pm - [RSVP](http://www.meetup.com/Nova-Node/events/222312195/)~~~
+- NodeSchool @ NodeNight - Thursday, July 2, 2015 7:00 PM - [RSVP](http://www.meetup.com/Nova-Node/events/223377810/)
+- ~~NodeSchool at NovaNode Unconference - Saturday, June 13, 2015 10:00am to 12:30pm - [RSVP](http://www.meetup.com/Nova-Node/events/222312195/)~~
 
 ## MeetUp
 
