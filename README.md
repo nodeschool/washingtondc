@@ -1,14 +1,14 @@
-# NodeSchool SF
+# NodeSchool DC
 
 Welcome to the NodeSchool San Francisco chapter's repository. We use this
 repository for our website and almost all our communication.
 
-You can see the website here: http://nodeschool.io/sanfrancisco/
+You can see the website here: http://nodeschool.io/washingtondc/
 
 
 ## Talk to us
 
-We utilize [GitHub Issues](https://github.com/nodeschool/sanfrancisco/issues)
+We utilize [GitHub Issues](https://github.com/nodeschool/washingtondc/issues)
 like a message board and keep almost all of our communication in the open. If
 for any reason you need to contact an organizer privately you may contact us
 directly.
