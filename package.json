@@ -13,7 +13,7 @@
   "bugs": {
     "url": "https://github.com/nodeschool/washingtondc/issues"
   },
-  "homepage": "https://nodeschool.io/washintondc",
+  "homepage": "https://nodeschool.io/washingtondc",
   "devDependencies": {
     "http-server": "^0.8.0"
   }
