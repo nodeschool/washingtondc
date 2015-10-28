@@ -16,9 +16,12 @@ directly.
 
 ## Team
 
- - Lydia Kats, [Twitter](https://twitter.com/llkats/)
- - Reza Akhavan, [GitHub](https://github.com/jedireza/),
-   [Twitter](https://twitter.com/jedireza/), [Email](mailto:jedireza@gmail.com)
+| Name | GitHub | Twitter |
+|---|---|---|
+| Daniel Paz-Soldan | [danpaz](https://github.com/danpaz)  | [@danpazsoldan](https://twitter.com/danpazsoldan) |
+| Josh Finnie | [joshfinnie](https://github.com/joshfinnie) | [@joshfinnie](https://twitter.com/joshfinnie) |
+| Juan Caicedo | [JuanCaicedo](https://github.com/JuanCaicedo)  | [@_juancaicedo](https://twitter.com/_juancaicedo) |
+| Robbie Holmes  | [robbiethegeek](https://github.com/robbiethegeek) | [@robbiethegeek](https://twitter.com/RobbieTheGeek)|
 
 
 ## Contributing to the website
@@ -42,7 +45,7 @@ Then you can run the website via:
 ```bash
 $ npm start
 
-# > nodeschoolsf@2.0.0 start /projects/sanfrancisco
+# > nodeschooldc@1.0.0 start /projects/washingtondc
 # > http-server .
 
 # Starting up http-server, serving . on: http://0.0.0.0:8080
@@ -59,10 +62,3 @@ $ PORT=3000 npm start
 ```
 
 Where `3000` is any port you choose.
-
-
-## Special thanks
-
-Andrew Duquet [created the first
-issue](https://github.com/nodeschool/organizers/issues/92) that got the San
-Francisco chapter started. Thank you Andrew!!
