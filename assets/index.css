@@ -179,3 +179,7 @@ body {
   opacity: 0.75;
   border-radius: 10px;
 }
+
+aside .gitter-chat-embed-action-bar {
+  top: 50px;
+}

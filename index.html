@@ -112,11 +112,20 @@
           Join the conversation.</a></p>
         </div>
       </div>
+      <button class="js-gitter-toggle-chat-button">Toggle Chat</button>
+<button class="js-gitter-toggle-chat-button" data-gitter-toggle-chat-state="true">Open Chat</button>
+<button class="js-gitter-toggle-chat-button" data-gitter-toggle-chat-state="false">Close Chat</button>
     </div>
     <div class="row"></div>
 
 
     <script src="//code.jquery.com/jquery-2.1.3.min.js"></script>
     <script src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.2/js/bootstrap.min.js"></script>
+    <script>
+  ((window.gitter = {}).chat = {}).options = {
+    room: 'nodeschool/washingtondc'
+  };
+</script>
+<script src="https://sidecar.gitter.im/dist/sidecar.v1.js" async defer></script>
   </body>
 </html>
