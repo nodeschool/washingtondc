@@ -21,8 +21,7 @@ you don't understand.
   and recommended:
   * Atom
   * Sublime Text 2
-  * Brackets
-  * Textmate
+  * Visual Studio Code
 - Go to `www.nodeschool.io` to look at the workshop instructions
 - We recommend the following workshops:
 
@@ -36,6 +35,7 @@ Some experience with Node.js | stream-adventure
 - If you want to know what's going on with your code, use
 `console.log('myData', myData)`. It will first print the string `myData` to
 the screen and then the value of the variable `myData`
+- Test your code with `$ <name-of-workshop> run <file-name> <params>`
 - Ask questions! Especially when you get to working with callbacks or modules.
 Raise your hand at any time or get one of the mentor's attention. We're glad to
 help :)
