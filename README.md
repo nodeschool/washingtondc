@@ -23,5 +23,4 @@ The Node.js DC metro community hosts many meetups:
 
 - Daniel Paz-Soldan - [@danpazsoldan](https://twitter.com/danpazsoldan)
 - Josh Finnie - [@joshfinnie](https://twitter.com/joshfinnie)
-- Juan Caicedo - [@_juancaicedo](https://twitter.com/_juancaicedo)
 - Robbie Holmes - [@robbiethegeek](https://twitter.com/robbiethegeek)
