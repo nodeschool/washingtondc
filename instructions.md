@@ -16,7 +16,7 @@ you don't understand.
 
 ## Getting Started
 
-- Go to `www.nodejs.org` and download either v4 or v5.
+- Go to `www.nodejs.org` and download either v6 or v7.
 - Get a text editor if you don't already have one. The following are all free
   and recommended:
   * Atom
