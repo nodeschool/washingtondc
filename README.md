@@ -14,12 +14,12 @@ The Node.js DC metro community hosts many meetups:
 - [NOVA Node](http://www.meetup.com/Nova-Node/)
 
 
-##Social Networking Links
+## Social Networking Links
 
 - [Twitter](https://twitter.com/NodeSchoolDC)
 - [Instagram](https://instagram.com/NodeSchoolDC)
 
-##Mentors
+## Mentors
 
 - Daniel Paz-Soldan - [@danpazsoldan](https://twitter.com/danpazsoldan)
 - Josh Finnie - [@joshfinnie](https://twitter.com/joshfinnie)
